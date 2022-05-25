@@ -1,5 +1,5 @@
-# keylogger
-keylogger; 
+# KEYLOGGER
+ 
 
 Script to perform a keylogger.
 
