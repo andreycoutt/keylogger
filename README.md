@@ -3,4 +3,7 @@ keylogger;
 
 (Preciso atualizar isso.)
 
-*CODIGO UTILIZADO SOMENTE PARA FINS ESTUDANTIS.*
+**Essa ferramenta foi feita apenas para fins educacionais, use-a de foa fé.**
+**This tool is written for educational purpose only, please use it on your own good faith.**
+
+
